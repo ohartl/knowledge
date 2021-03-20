@@ -1,4 +1,6 @@
-# knowledge
+# Knowledge
+
+A personal collection of knowledge, links and others  
 
 ## :thought_balloon: Interesting and inspiring articles/studies
 
